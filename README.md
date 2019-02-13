@@ -1,6 +1,6 @@
 # deep-learning-papers
 
-## 1. Computer Vision
+## Computer Vision
 ### CNN Architecture
 * AlexNet: ImageNet Classification with Deep Convolutional Neural Networks
 * ZFNet (DeconvNet): Visualizing and Understanding Convolutional Networks ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Visualizing%20and%20Understanding%20Convolutional%20Networks.pdf), code)
@@ -73,7 +73,7 @@
 * A guide to convolution arithmetic for deep learning ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/A%20guide%20to%20convolution%20arithmetic%20for%20deep%20learning.pdf))
 
 
-## 2. [Generative Models](./doc/gan.md)
+## [Generative Models](./doc/gan.md)
 
 ### Models
 
@@ -121,26 +121,7 @@
 * Generative Adversarial Networks 
 * Energy-based models 
 
-## 3. Drug Discovery
-* The rise of deep learning in drug discovery: https://doi.org/10.1016/j.drudis.2018.01.039
-
-### De novo design
-* RNN 계열
-  * Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks
-  * Generative Recurrent Networks for De Novo Drug Design
-  * REINVENT: Molecular De Novo Design through Deep Reinforcement Learning
-* GAN 계열
-  * ORGAN
-  * ORGANIC
-* Graph 계열
-  * Geometric deep learning: going beyond Euclidean data
-  * Deeply learning molecular structure-property relationships using graph attention neural network
-
-### Biological Imaging Analysis
-* U-Net: Convolutional Networks for Biomedical Image Segmentation
-
-
-## 4. NLP
+## NLP
 * Recent Trends in Deep Learning Based Natural Language Processing ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Recent%20Trends%20in%20Deep%20Learning%20Based%20Natural%20Language%20Processing.pdf))
 
 ### RNN Architecture
@@ -163,14 +144,39 @@
   - ByteNet: Neural Machine Translation in Linear Time (2017)
   - Depthwise Separable Convolutions for Neural Machine Translation (2017)
   - SliceNet: Convolutional Sequence to Sequence Learning (2017)
-
-
 ### Word Embedding
 
-## 5. Etc. (Optimization, Regularization, Applications)
+## Multimodal Learning
+* Show and Tell: ([note](https://onedrive.live.com/redir?resid=1450F7B8ED703390%21115&authkey=%21AJGFPawcTr22dxk&page=View&wd=target%28%EB%85%BC%EB%AC%B8.one%7C78936911-7ecb-1742-b29b-410f54136ea2%2FShow%20and%20Tell%20A%20Neural%20Image%20Caption%20Generator%7C2c22f00c-1325-6a40-955e-461a66e89d81%2F%29&wdorigin=703))
+* Show, Attend and Tell: ([note](https://onedrive.live.com/redir?resid=1450F7B8ED703390%21115&authkey=%21AJGFPawcTr22dxk&page=View&wd=target%28%EB%85%BC%EB%AC%B8.one%7C78936911-7ecb-1742-b29b-410f54136ea2%2FShow%20Attend%20and%20Tell%20Neural%20Image%20Caption%20Generation%20with%20%7C71d6e739-bffb-f148-8674-55b32dc2681f%2F%29&wdorigin=703))
+
+
+
+## Etc. (Optimization, Regularization, Applications)
 * An overview of gradient descent optimization algorithms ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/An%20overview%20of%20gradient%20descent%20optimization%20algorithms.pdf))
 * Dropout:
 * Batch Normalization: ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Batch%20Normalization-%20Accelerating%20Deep%20Network%20Training%20b%20y%20Reducing%20Internal%20Covariate%20Shift.pdf), code)
 * Spectral Norm Regularization for Improving the Generalizability of Deep Learning ([note(진행중)](./paper/Spectral%20Norm%20Regularization%20for%20Improving%20the%20Generalizability%20of%20Deep%20Learning.pdf), code)
 * Wide & Deep Learning for Recommender Systems
+
+
+
+## Drug Discovery
+* The rise of deep learning in drug discovery: https://doi.org/10.1016/j.drudis.2018.01.039
+
+### De novo design
+* RNN 계열
+  * Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks
+  * Generative Recurrent Networks for De Novo Drug Design
+  * REINVENT: Molecular De Novo Design through Deep Reinforcement Learning
+* GAN 계열
+  * ORGAN
+  * ORGANIC
+* Graph 계열
+  * Geometric deep learning: going beyond Euclidean data
+  * Deeply learning molecular structure-property relationships using graph attention neural network
+
+### Biological Imaging Analysis
+* U-Net: Convolutional Networks for Biomedical Image Segmentation
+
 
