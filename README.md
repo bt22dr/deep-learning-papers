@@ -24,7 +24,7 @@
 * DeconvNet
 * BP: Deep inside convolutional networks: Visualising image classification models and saliency maps ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Deep%20Inside%20Convolutional%20Networks-%20Visualising%20Image%20Classification%20Models%20and%20Saliency%20Maps.pdf), code)
 * Guided-BP (DeconvNet+BP): Striving for simplicity: The all convolutional net ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Striving%20for%20Simplicity%20-%20The%20All%20Convolutional%20Net.pdf), code)
-* Understanding Neural Networks Through Deep Visualization (paper)
+* Understanding Neural Networks Through Deep Visualization
 
 
 ### [Weakly Supervised Localization](./doc/cam.md)
@@ -68,8 +68,6 @@
 
 
 ### [Etc.](./doc/etc/md)
-* Image Captioning
-* Show and Tell: Show and Tell: A Neural Image Caption Generator
 * A guide to convolution arithmetic for deep learning ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/A%20guide%20to%20convolution%20arithmetic%20for%20deep%20learning.pdf))
 
 
@@ -82,9 +80,14 @@
 * PixelCNN++
 * WaveNet
 
-#### Latent Variable Models
+#### Variational Autoencoders
 * VAE ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/doc/gan.md#auto-encoding-variational-bayes), [code1(mnist)](./code/vae.ipynb), [code2(fashion_mnist)](./code/vae_fashion_mnist.ipynb))
 * Conditional VAE ([note](./paper/Learning%20Structured%20Output%20Representation%20using%20Deep%20Conditional%20Generative%20Models.pdf), [code](./code/conditional_vae_fashion_mnist.ipynb))
+
+#### Normalizing Flow Models
+* NICE
+* RealNVP
+* Glow
 
 #### GANs
 * GAN: Generative Adversarial Networks ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Generative%20Adversarial%20Networks.pdf), [code1(mnist)](./code/gan.ipynb), [code2(fashion_mnist)](./code/gan_fashion_mnist.ipynb))
