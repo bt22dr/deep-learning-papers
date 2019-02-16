@@ -22,7 +22,7 @@
 
 ### [Visualizing CNNs](./doc/visualizing_cnn.md)
 * DeconvNet
-* BP: Deep inside convolutional networks: Visualising image classification models and saliency maps ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Deep%20Inside%20Convolutional%20Networks-%20Visualising%20Image%20Classification%20Models%20and%20Saliency%20Maps.pdf), code)
+* BP: Deep inside convolutional networks: Visualising image classification models and saliency maps ([note](/paper/Deep%20Inside%20Convolutional%20Networks%20-%20Visualising%20Image%20Classification%20Models%20and%20Saliency%20Maps.pdf))
 * Guided-BP (DeconvNet+BP): Striving for simplicity: The all convolutional net ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Striving%20for%20Simplicity%20-%20The%20All%20Convolutional%20Net.pdf), code)
 * Understanding Neural Networks Through Deep Visualization
 
