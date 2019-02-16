@@ -152,8 +152,8 @@
 ## Multimodal Learning
 * DeVise - A Deep Visual-Semantic Embedding Model: ([note](./paper/DeViSE%20-%20A%20Deep%20Visual-Semantic%20Embedding%20Model.pdf))
 * Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models: ([note](./paper/Unifying%20Visual-Semantic%20Embeddings%20with%20Multimodal%20Neural%20Language%20Models.pdf))
-* Show and Tell: ([note](https://onedrive.live.com/redir?resid=1450F7B8ED703390%21115&authkey=%21AJGFPawcTr22dxk&page=View&wd=target%28%EB%85%BC%EB%AC%B8.one%7C78936911-7ecb-1742-b29b-410f54136ea2%2FShow%20and%20Tell%20A%20Neural%20Image%20Caption%20Generator%7C2c22f00c-1325-6a40-955e-461a66e89d81%2F%29&wdorigin=703))
-* Show, Attend and Tell: ([note](https://onedrive.live.com/redir?resid=1450F7B8ED703390%21115&authkey=%21AJGFPawcTr22dxk&page=View&wd=target%28%EB%85%BC%EB%AC%B8.one%7C78936911-7ecb-1742-b29b-410f54136ea2%2FShow%20Attend%20and%20Tell%20Neural%20Image%20Caption%20Generation%20with%20%7C71d6e739-bffb-f148-8674-55b32dc2681f%2F%29&wdorigin=703))
+* Show and Tell: ([note](./paper/Show%20and%20Tell%20A%20Neural%20Image%20Caption%20Generator.comp.pdf))
+* Show, Attend and Tell: ([note](./paper/Show%20Attend%20and%20Tell%20Neural%20Image%20Caption%20Generation%20with%20Visual%20Attention.comp.pdf))
 * Multimodal Machine Learning: A Survey and Taxonomy: ([note](./paper/Multimodal%20Machine%20Learning%20-%20A%20Survey%20and%20Taxonomy.pdf))
 
 
