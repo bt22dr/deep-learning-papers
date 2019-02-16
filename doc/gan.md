@@ -362,3 +362,14 @@ Lipschitz 관련
 - Conditional Image Generation with PixelCNN Decoders (https://arxiv.org/abs/1606.05328)
 - PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications (https://arxiv.org/abs/1701.05517)
 - WaveNet: A Generative Model for Raw Audio (https://arxiv.org/abs/1609.03499)
+## 2. Variational Autoencoders
+## 3. Normalizing Flow Models
+ - Real NVP 저자 직강: https://www.youtube.com/watch?v=7hKul_tOfsI
+ - Change-of-Variable Technique: https://newonlinecourses.science.psu.edu/stat414/node/157/
+ - Jacobian determinant: http://www.math.ucla.edu/~archristian/teaching/32b-sum18/session-4.pdf
+ - Khan Academy : [행렬식과 평행사변형의 영역](https://ko.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-and-area-of-a-parallelogram), [Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
+ - 블로그 
+   - https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html#models-with-normalizing-flows
+   - https://blog.evjang.com/2018/01/nf1.html
+## Generative Adversarial Networks
+## Energy-based models
