@@ -30,9 +30,9 @@
 ### [Weakly Supervised Localization](./doc/cam.md)
 * From Image-level to Pixel-level Labeling with Convolutional Networks (2015)
 * GMP-CAM: Is object localization for free? - Weakly-supervised learning with convolutional neural networks (2015) ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Weakly-supervised%20learning%20with%20convolutional%20neural%20networks.pdf), code)
-* GAP-CAM: Learning Deep Features for Discriminative Localization (2016) ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/CAM_%20Learning%20Deep%20Features%20for%20Discriminative%20Localization%20.pdf), code)
+* GAP-CAM: Learning Deep Features for Discriminative Localization (2016) ([note](./paper/CAM%20-%20Learning%20Deep%20Features%20for%20Discriminative%20Localization.pdf), code)
 * c-MWP: Top-down Neural Attention by Excitation Backprop
-* Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization (2017) ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Grad-CAM_%20Visual%20Explanations%20from%20Deep%20Networks%20via%20Gradient-based%20Localization.pdf), code)
+* Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization (2017) ([note](./paper/Grad-CAM%20-%20Visual%20Explanations%20from%20Deep%20Networks%20via%20Gradient-based%20Localization.pdf), code)
 
 
 ### [Object Detection](./doc/detection.md)
