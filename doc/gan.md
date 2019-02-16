@@ -371,5 +371,6 @@ Lipschitz 관련
  - 튜토리얼
    - [겁나 정리 잘한 블로그](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html#models-with-normalizing-flows)
    - 강의안이 그림 캡쳐한 블로그 [글 1](https://blog.evjang.com/2018/01/nf1.html), [글 2](https://blog.evjang.com/2018/01/nf2.html)
+   - [tensorflow bijector API 사용법](https://tiao.io/post/building-probability-distributions-with-tensorflow-probability-bijector-api/) 소개글
 ## Generative Adversarial Networks
 ## Energy-based models
