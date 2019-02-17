@@ -87,6 +87,7 @@
 #### Normalizing Flow Models
 * NICE
 * RealNVP
+* IAF
 * Glow
 
 #### GANs
