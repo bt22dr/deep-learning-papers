@@ -76,11 +76,11 @@
 ### Models
 
 #### Autoregressive Models
-* NADE
-* RNADE
+* NADE (2011)
+* RNADE (2013)
 * MADE (2015)
-* PixelCNN: ([note](./paper/Pixel%20Recurrent%20Neural%20Networks.pdf), [code1(mnist)](./code/PixelCNN_mnist.ipynb), [code2(fashion_mnist)](./code/PixelCNN_fashionmnist.ipynb))
-* WaveNet
+* WaveNet (2016)
+* PixelCNN (2017): ([note](./paper/Pixel%20Recurrent%20Neural%20Networks.pdf), [code1(mnist)](./code/PixelCNN_mnist.ipynb), [code2(fashion_mnist)](./code/PixelCNN_fashionmnist.ipynb))
 
 #### Variational Autoencoders
 * VAE ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/doc/gan.md#auto-encoding-variational-bayes), [code1(mnist)](./code/vae.ipynb), [code2(fashion_mnist)](./code/vae_fashion_mnist.ipynb))
