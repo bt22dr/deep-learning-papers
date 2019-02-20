@@ -76,8 +76,10 @@
 ### Models
 
 #### Autoregressive Models
+* NADE
+* RNADE
+* MADE (2015)
 * PixelCNN: ([note](./paper/Pixel%20Recurrent%20Neural%20Networks.pdf), [code1(mnist)](./code/PixelCNN_mnist.ipynb), [code2(fashion_mnist)](./code/PixelCNN_fashionmnist.ipynb))
-* PixelCNN++
 * WaveNet
 
 #### Variational Autoencoders
@@ -85,10 +87,11 @@
 * Conditional VAE ([note](./paper/Learning%20Structured%20Output%20Representation%20using%20Deep%20Conditional%20Generative%20Models.pdf), [code](./code/conditional_vae_fashion_mnist.ipynb))
 
 #### Normalizing Flow Models
-* NICE
-* RealNVP
-* IAF
-* Glow
+* NICE (2014)
+* Variational Inference with Normalizing Flows (2015)
+* IAF (2016)
+* MAF (2017)
+* Glow (2018)
 
 #### GANs
 * GAN: Generative Adversarial Networks ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Generative%20Adversarial%20Networks.pdf), [code1(mnist)](./code/gan.ipynb), [code2(fashion_mnist)](./code/gan_fashion_mnist.ipynb))
