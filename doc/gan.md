@@ -298,6 +298,7 @@ cGAN은 아래 연구들로 발전된다.
 * 킹마형 Thesis: https://pure.uva.nl/ws/files/17891313/Thesis.pdf
 * VAE tutorial: https://arxiv.org/abs/1606.05908
 * 직관이 좋은 슬라이드 자료: https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518
+* 동전 던지기로 설명: http://www.openias.org/variational-coin-toss
 * EM 관련: https://www.youtube.com/watch?v=MBr47eM4hf0
 * GMM 관련: https://www.youtube.com/watch?v=JNlEIEwe-Cg
 * Bloomberg (EM for Latent): https://www.youtube.com/watch?v=lMShR1vjbUo
