@@ -48,12 +48,17 @@
 * YOLO9000:
 
 
+### Semantic Segmentation
+* FCN: Fully Convolutional Networks for Semantic Segmentation (note, code)
+* SegNet
+* DeepLap
+* Dilated
+* Multi-scale
+* DeepMask
+
 ### [Style Transfer](./doc/style_transfer.md)
 * A Neural Algorithm of Artistic Style (2015)
 
-
-### Semantic Segmentation
-* FCN: Fully Convolutional Networks for Semantic Segmentation (note, code)
 
 ### Siamese, Triplet Network
 * Triplet Network
