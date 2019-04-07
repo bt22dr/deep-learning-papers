@@ -50,11 +50,14 @@
 
 ### Semantic Segmentation
 * FCN: Fully Convolutional Networks for Semantic Segmentation (note, code)
-* SegNet
-* DeepLap
-* Dilated
-* Multi-scale
-* DeepMask
+  * max-pooling indices를 사용: SegNet
+  * CRF를 사용: DeepLap V2
+  * Dilated Convolution 사용: Multi-Scale Context Aggregation by Dilated Convolutions
+  * Multi-scale
+  * Feature Fusion: ParseNet
+* Instance Segmentation
+  * DeepMask
+  * SharpMask
 
 ### [Style Transfer](./doc/style_transfer.md)
 * A Neural Algorithm of Artistic Style (2015)
