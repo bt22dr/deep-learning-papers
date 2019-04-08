@@ -58,6 +58,8 @@
 * Instance Segmentation
   * DeepMask
   * SharpMask
+* 3D
+  * PointNet
 
 ### [Style Transfer](./doc/style_transfer.md)
 * A Neural Algorithm of Artistic Style (2015)
