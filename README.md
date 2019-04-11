@@ -66,6 +66,11 @@
   * SharpMask
 * 3D
   * PointNet (2017)
+* Weakly-supervised Segmentation
+  * Constrained Convolutional Neural Networks for Weakly Supervised Segmentation
+  * Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation
+  * BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation
+  * Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
 
 ### [Style Transfer](./doc/style_transfer.md)
 * A Neural Algorithm of Artistic Style (2015)
