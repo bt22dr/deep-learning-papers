@@ -49,7 +49,7 @@
 
 
 ### Semantic Segmentation
-* FCN: Fully Convolutional Networks for Semantic Segmentation (note, code) (2014)
+* FCN: Fully Convolutional Networks for Semantic Segmentation ([note](./paper/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf), code) (2014)
   * max-pooling indices를 사용: SegNet (2015) ([note](./paper/SegNet%20A%20Deep%20Convolutional%20Encoder-Decoder%20Architecture%20for%20Image%20Segmentation.pdf))
   * CRF를 사용: DeepLap V2 (2016)
   * Dilated Convolutions 사용: Multi-Scale Context Aggregation by Dilated Convolutions (2015)
