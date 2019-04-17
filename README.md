@@ -72,6 +72,7 @@
   * BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation
   * Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
   * From Image-level to Pixel-level Labeling with Convolutional Networks
+  * Weakly Supervised Instance Segmentation using Class Peak Response
 
 ### [Style Transfer](./doc/style_transfer.md)
 * A Neural Algorithm of Artistic Style (2015)
