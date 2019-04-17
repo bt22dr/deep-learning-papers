@@ -71,6 +71,7 @@
   * Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation
   * BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation
   * Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
+  * From Image-level to Pixel-level Labeling with Convolutional Networks
 
 ### [Style Transfer](./doc/style_transfer.md)
 * A Neural Algorithm of Artistic Style (2015)
