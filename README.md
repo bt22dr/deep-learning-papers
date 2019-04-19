@@ -48,7 +48,7 @@
 * YOLO9000:
 
 
-### Semantic Segmentation
+### [Semantic Segmentation](./doc/semantic_segmentation.md)
 * FCN (2014) 계열:
   * max-pooling indices를 사용: SegNet V2 (2015) ([note](./paper/SegNet%20A%20Deep%20Convolutional%20Encoder-Decoder%20Architecture%20for%20Image%20Segmentation.pdf))
   * Fully Convolutional Networks for Semantic Segmentation (FCN_V2, 2016) ([note](./paper/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf))
