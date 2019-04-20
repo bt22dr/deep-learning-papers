@@ -54,7 +54,7 @@
   * Fully Convolutional Networks for Semantic Segmentation (FCN_V2, 2016) ([note](./paper/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf))
   * atrous convolution과 CRF를 사용: DeepLap V2 (2016)
   * Dilated convolutions 사용: Multi-Scale Context Aggregation by Dilated Convolutions (2015)
-  * Multi-scale
+  * Multi-scale: Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture (2015)
   * Feature Fusion: ParseNet (2015) 
   * U-Net (2015) ([note](./paper/U-Net%20-%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf))
 * PSPNet (2016) ([note](./paper/Pyramid%20Scene%20Parsing%20Network.pdf))
