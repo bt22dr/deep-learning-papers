@@ -49,13 +49,14 @@
 
 
 ### [Semantic Segmentation](./doc/semantic_segmentation.md)
-* FCN (2014) 계열:
+* FCN_V1 (2014)에서 직접적인 영향을 받은 모델들:
   * max-pooling indices를 사용: SegNet V2 (2015) ([note](./paper/SegNet%20A%20Deep%20Convolutional%20Encoder-Decoder%20Architecture%20for%20Image%20Segmentation.pdf))
   * Fully Convolutional Networks for Semantic Segmentation (FCN_V2, 2016) ([note](./paper/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf))
   * atrous convolution과 CRF를 사용: DeepLap V2 (2016)
   * Dilated convolutions 사용: Multi-Scale Context Aggregation by Dilated Convolutions (2015)
   * Multi-scale
   * Feature Fusion: ParseNet (2015) 
+  * U-Net (2015) ([note](./paper/U-Net%20-%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf))
 * PSPNet (2016) ([note](./paper/Pyramid%20Scene%20Parsing%20Network.pdf))
 * DeepLabv3+ (2018)
 * EncNet (2018)
@@ -63,7 +64,7 @@
 * Instance Segmentation
   * DeepMask
   * SharpMask
-  * Mask R-CNN (2017)
+  * Mask R-CNN (2017) ([note](./paper/Mask%20R-CNN.pdf))
 * 3D
   * PointNet (2017)
   * SGPN (2017)
