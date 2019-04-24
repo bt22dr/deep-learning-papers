@@ -78,6 +78,7 @@
   * ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation
   * Weakly- and Semi-Supervised Panoptic Segmentation
   * WEAKLY SUPERVISED INSTANCE SEGMENTATION USING HYBRID NETWORKS
+  * Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing
 
 ### [Style Transfer](./doc/style_transfer.md)
 * A Neural Algorithm of Artistic Style (2015)
