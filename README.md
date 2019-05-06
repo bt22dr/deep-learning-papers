@@ -58,7 +58,7 @@
   * Feature Fusion: ParseNet (2015) 
   * U-Net (2015) ([note](./paper/U-Net%20-%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf))
 * PSPNet (2016) ([note](./paper/Pyramid%20Scene%20Parsing%20Network.pdf))
-* DeepLabv3+ (2018)
+* DeepLabv3+ (2018) ([note](./paper/Encoder-Decoder%20with%20Atrous%20Separable%20Convolution%20for%20Semantic%20Image%20Segmentation.pdf))
 * EncNet (2018)
 * FastFCN (2019)
 * Instance Segmentation
