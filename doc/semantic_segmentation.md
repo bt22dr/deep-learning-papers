@@ -1,7 +1,9 @@
 # Semantic Segmentation
 * 개론 설명 블로그들
   * 2017: http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review#deeplabv3
-  * 2018: https://mc.ai/a-peek-at-semantic-segmentation-2018/
+  * 2018: 
+    * https://mc.ai/a-peek-at-semantic-segmentation-2018/
+    * https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57
   * 2019: https://medium.com/@vahavp/why-pixel-precision-is-the-future-of-the-image-annotation-12a891367f7b
   
 ##  DeepLab 계열 논문들
