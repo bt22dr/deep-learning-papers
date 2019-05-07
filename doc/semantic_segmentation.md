@@ -1,4 +1,9 @@
 # Semantic Segmentation
+* 개론 설명 블로그들
+  * 2017: http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review#deeplabv3
+  * 2018: https://mc.ai/a-peek-at-semantic-segmentation-2018/
+  * 2019: https://medium.com/@vahavp/why-pixel-precision-is-the-future-of-the-image-annotation-12a891367f7b
+  
 ##  DeepLab 계열 논문들
 * 참고자료
   * [PR-045: DeepLab](https://www.youtube.com/watch?v=JiC78rUF4iI)
@@ -17,6 +22,9 @@
   * https://www.kaggle.com/alexanderliao/deeplabv3
   * [deploy with TF Serving](https://mighty.ai/blog/how-to-deploy-segmentation-models-with-tensorflow-serving/)
 
+## EncNet
+* 참고자료: 
+  * 저자 발표 동영상: https://www.youtube.com/watch?v=vAhzirU4WqA
 
 # Instance Segmentation
 ## Mask R-CNN
