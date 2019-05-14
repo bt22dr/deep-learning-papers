@@ -132,7 +132,7 @@
 * SAGAN: 
 * CoGAN: Coupled Generative Adversarial Networks (note, code)
 
-### Image generation
+### [Image generation](./doc/img2img_translation.md)
 * cGAN: Conditional Generative Adversarial Nets ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Conditional%20Generative%20Adversarial%20Nets.pdf), [code](./code/cgan.ipynb))
 * pix2pix: 
 * CycleGAN: 
