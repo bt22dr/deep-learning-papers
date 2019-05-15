@@ -125,7 +125,10 @@
 #### GANs
 * GAN: Generative Adversarial Networks ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Generative%20Adversarial%20Networks.pdf), [code1(mnist)](./code/gan.ipynb), [code2(fashion_mnist)](./code/gan_fashion_mnist.ipynb))
 * DCGAN ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Unsupervised%20Representation%20Learning%20with%20Deep%20Convolutional%20Generative%20Adversarial%20Networks.pdf), [code1](./code/dcgan_mnist.ipynb), [code2](./code/dcgan_celebA.ipynb))
-* WGAN: Wasserstein GAN ([note(진행중)](./paper/Wasserstein%20GAN.pdf), [code](./code/wgan.ipynb))
+* WGAN 계열: 
+  * WGAN: Wasserstein GAN ([note(진행중)](./paper/Wasserstein%20GAN.pdf), [code](./code/wgan.ipynb))
+  * WGAN_GP: Improved Training of Wasserstein GANs 
+  * CT-GAN: Improving the Improved Training of Wasserstein GANs
 * infoGAN
 * Improved GAN: 
 * SNGAN: Spectral Normalization for Generative Adversarial Networks ([note(진행중)](./paper/Spectral%20Normalization%20for%20Generative%20Adversarial%20Networks.pdf), [code](./code/sngan_fashion_mnist.ipynb))
