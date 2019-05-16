@@ -81,7 +81,12 @@
   * Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing
 
 ### [Style Transfer](./doc/style_transfer.md)
-* A Neural Algorithm of Artistic Style (2015)
+* ~~A Neural Algorithm of Artistic Style (2015)~~
+* Image Style Transfer Using Convolutional Neural Networks (2016)
+* Perceptual Losses for Real-Time Style Transfer and Super-Resolution (2016)
+* Instance Normalization: 
+  * Instance Normalization: The Missing Ingredient for Fast Stylization (2016)
+  * Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis (2017)
 
 
 ### Siamese, Triplet Network
