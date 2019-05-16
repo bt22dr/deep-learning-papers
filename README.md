@@ -186,7 +186,7 @@
 * Multimodal Machine Learning: A Survey and Taxonomy: ([note](./paper/Multimodal%20Machine%20Learning%20-%20A%20Survey%20and%20Taxonomy.pdf))
 
 
-## [Etc.](./doc/etc.md) (Optimization, Regularization, Applications)
+## [Etc.](./doc/etc.md) (Optimization, Normalization, Applications)
 * An overview of gradient descent optimization algorithms ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/An%20overview%20of%20gradient%20descent%20optimization%20algorithms.pdf))
 * Dropout:
 * Batch Normalization: ([pdf+memo](./paper/Batch%20Normalization%20-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf), code)
