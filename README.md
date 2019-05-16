@@ -37,15 +37,6 @@
 
 ### [Object Detection](./doc/detection.md)
 * OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks ([note](./paper/OverFeat%20-%20Integrated%20Recognition%2C%20Localization%20and%20Detection%20using%20Convolutional%20Networks.pdf), code)
-* SPP
-* R-CNN
-  - R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation
-  - Fast R-CNN
-  - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
-  - Mask R-CNN
-* SSD
-* YOLO:
-* YOLO9000:
 
 
 ### [Semantic Segmentation](./doc/semantic_segmentation.md)
