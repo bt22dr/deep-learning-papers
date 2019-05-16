@@ -118,6 +118,7 @@
 
 #### Variational Autoencoders
 * VAE ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/doc/gan.md#auto-encoding-variational-bayes), [code1(mnist)](./code/vae.ipynb), [code2(fashion_mnist)](./code/vae_fashion_mnist.ipynb))
+* VAE-GAN: Autoencoding beyond pixels using a learned similarity metric
 * Conditional VAE ([note](./paper/Learning%20Structured%20Output%20Representation%20using%20Deep%20Conditional%20Generative%20Models.pdf), [code](./code/conditional_vae_fashion_mnist.ipynb))
 
 #### Normalizing Flow Models
