@@ -23,6 +23,11 @@
 
 # Generative Models
 
+## 개론
+* GAN과 VAE 비교
+  * https://taeoh-kim.github.io/blog/generative-models-part-1-vaegandcgan/
+  * https://www.quora.com/What-are-the-pros-and-cons-of-Generative-Adversarial-Networks-vs-Variational-Autoencoders
+
 ## GAN
 최윤제님 정리 자료
  - 원본: https://www.youtube.com/watch?v=uQT464Ms6y8
