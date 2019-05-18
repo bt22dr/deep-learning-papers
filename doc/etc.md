@@ -1,10 +1,17 @@
 # Etc.
 
 ## Normalization
-각종 normalization 총정리
-* https://subinium.github.io/introduction-to-normalization/
-  * BIN: https://blog.lunit.io/2018/05/25/batch-instance-normalization/
-  * GN: https://blog.lunit.io/2018/04/12/group-normalization/
+각종 normalization 총정리: https://subinium.github.io/introduction-to-normalization/
+* Weight Normalization
+* Layer Normalization
+* Instance Normalization
+* Group Normalization
+  * https://blog.lunit.io/2018/04/12/group-normalization/
+* Batch Renormalization
+* Batch-Instance Normalization: 
+  * https://blog.lunit.io/2018/05/25/batch-instance-normalization/
+* Switchable Normalization
+* Spectral Normalization
 
 How Does Batch Normalization Help Optimization? 한글 자료
 * https://ml-dnn.tistory.com/6
