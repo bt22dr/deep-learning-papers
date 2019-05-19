@@ -2,17 +2,21 @@
 
 ## Normalization
 각종 normalization 총정리: https://subinium.github.io/introduction-to-normalization/
-* Weight Normalization
-* Layer Normalization
-* Instance Normalization
-* Group Normalization
-  * https://blog.lunit.io/2018/04/12/group-normalization/
-* Batch Renormalization
-* Batch-Instance Normalization: 
-  * https://blog.lunit.io/2018/05/25/batch-instance-normalization/
-* Switchable Normalization
-* Spectral Normalization
-
+* Unconditional normalization
+  * Weight Normalization
+  * Layer Normalization
+  * Instance Normalization
+  * Group Normalization
+    * https://blog.lunit.io/2018/04/12/group-normalization/
+  * Batch Renormalization
+  * Batch-Instance Normalization: 
+    * https://blog.lunit.io/2018/05/25/batch-instance-normalization/
+  * Switchable Normalization
+  * Spectral Normalization
+* Conditional normalization
+  * Conditional Batch Normalization
+  * Adaptive Instance Normalization
+  
 How Does Batch Normalization Help Optimization? 한글 자료
 * https://ml-dnn.tistory.com/6
 * https://yjucho1.github.io/deep%20learning%20paper/batchnorm/
