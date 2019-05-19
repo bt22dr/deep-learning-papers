@@ -139,6 +139,9 @@
 * StyleGAN: 
 
 #### text-to-image
+* Generative adversarial text to image synthesis
+* StackGAN
+* AttnGAN
 
 ### Sequence generation
 * WaveGAN: ([note](./paper/WaveGAN-%20Synthesizing%20Audio%20with%20Generative%20Adversarial%20Networks.pdf), code)
