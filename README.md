@@ -134,7 +134,7 @@
 * StarGAN: 
 * PGGAN: 
 * ~~BicycleGAN~~
-* ~~MUNIT~~
+* ~~UNIT/MUNIT~~
 * ~~iGAN~~
 * StyleGAN: 
 
