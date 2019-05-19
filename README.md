@@ -127,13 +127,13 @@
 * cGAN: Conditional Generative Adversarial Nets ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Conditional%20Generative%20Adversarial%20Nets.pdf), [code](./code/cgan.ipynb))
 * (내맘대로)pix2pix 계열:
   * pix2pix: Image-to-Image Translation with Conditional Adversarial Networks ([note](./paper/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks.pdf))
-  * pix2pixHD: 
+  * ~~pix2pixHD~~
+  * CycleGAN: 
+  * BicycleGAN
   * vid2vid: Video-to-Video Synthesis
   * SPADE: 
-* CycleGAN: 
 * StarGAN: 
 * PGGAN: 
-* ~~BicycleGAN~~
 * ~~UNIT/MUNIT~~
 * ~~iGAN~~
 * StyleGAN: 
