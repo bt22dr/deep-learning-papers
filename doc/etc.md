@@ -14,7 +14,7 @@
   * Switchable Normalization
   * Spectral Normalization
 * Conditional normalization
-  * Conditional Batch Normalization
+  * Conditional Instance Normalization
   * Adaptive Instance Normalization
   
 How Does Batch Normalization Help Optimization? 한글 자료
