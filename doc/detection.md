@@ -9,7 +9,6 @@
   - R-CNN: Rich feature hierarchies for accurate object detection and semantic segmentation (2013)
   - Fast R-CNN
   - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
-  - Mask R-CNN
 * SPP
 * SSD
 * YOLO:
