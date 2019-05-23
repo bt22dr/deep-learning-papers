@@ -131,7 +131,7 @@
   * CycleGAN: 
   * BicycleGAN
   * vid2vid: Video-to-Video Synthesis
-  * SPADE: 
+  * SPADE: Semantic Image Synthesis with Spatially-Adaptive Normalization ([note](./paper/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization.pdf))
 * StarGAN: 
 * PGGAN: 
 * ~~UNIT/MUNIT~~
