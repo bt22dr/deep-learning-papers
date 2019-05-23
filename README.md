@@ -56,7 +56,7 @@
   * DeepMask
   * SharpMask
   * Mask R-CNN (2017) ([note](./paper/Mask%20R-CNN.pdf))
-* 3D
+* 3D / Point Cloud
   * PointNet (2017)
   * SGPN (2017)
 * Weakly-supervised Segmentation
