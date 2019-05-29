@@ -16,3 +16,6 @@
 * http://jaejunyoo.blogspot.com/2018/05/paper-skim-progressive-growing-of-gans.html
 * https://www.slideshare.net/ssuser2a5d00/progressive-growing-of-gans-for-improved-quality-stability-and-variation
 * GCP로 실행해보기: https://kim6394.tistory.com/99
+
+## SPADE
+* [참고](https://medium.com/@swapp19902/2019-how-an-algorithm-learned-to-synthesize-photo-realistic-images-from-crude-drawings-nvidia-cfd4d9200ea0)
