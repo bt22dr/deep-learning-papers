@@ -103,7 +103,7 @@
 * VAE-GAN: Autoencoding beyond pixels using a learned similarity metric
 
 #### Normalizing Flow Models
-* NICE (2014)
+* NICE (2014) ([note](./paper/NICE%20Non-linear%20Independent%20Components%20Estimation.pdf))
 * Variational Inference with Normalizing Flows (2015)
 * IAF (2016)
 * MAF (2017)
