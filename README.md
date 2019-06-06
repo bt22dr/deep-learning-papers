@@ -94,7 +94,7 @@
 * NADE (2011)
 * RNADE (2013)
 * MADE (2015)
-* WaveNet (2016)
+* WaveNet (2016) ([note](./paper/WaveNet%20A%20Generative%20Model%20for%20Raw%20Audio.pdf))
 * PixelCNN (2017): ([note](./paper/Pixel%20Recurrent%20Neural%20Networks.pdf), [code1(mnist)](./code/PixelCNN_mnist.ipynb), [code2(fashion_mnist)](./code/PixelCNN_fashionmnist.ipynb))
 
 #### Variational Autoencoders
