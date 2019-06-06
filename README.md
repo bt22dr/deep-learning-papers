@@ -104,7 +104,7 @@
 
 #### Normalizing Flow Models
 * NICE (2014) ([note](./paper/NICE%20Non-linear%20Independent%20Components%20Estimation.pdf))
-* Variational Inference with Normalizing Flows (2015)
+* Variational Inference with Normalizing Flows (2015) ([code](https://drive.google.com/drive/folders/1-kqyXOvnuw7aeOwbAfKO2OWUkFdv3AmR))
 * IAF (2016)
 * MAF (2017)
 * Glow (2018)
