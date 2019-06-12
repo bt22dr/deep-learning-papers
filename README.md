@@ -96,7 +96,7 @@
 * MADE (2015)
 * PixelRNN 계열
   * PixelCNN (2016): ([note](./paper/Pixel%20Recurrent%20Neural%20Networks.pdf), [code1(mnist)](./code/PixelCNN_mnist.ipynb), [code2(fashion_mnist)](./code/PixelCNN_fashionmnist.ipynb))
-  * WaveNet (2016) ([note](./paper/WaveNet%20A%20Generative%20Model%20for%20Raw%20Audio.pdf))
+  * WaveNet (2016) ([note](./paper/WaveNet%20A%20Generative%20Model%20for%20Raw%20Audio.pdf), [code](./code/WaveNet.ipynb))
   * VQ-VAE: Neural Discrete Representation Learning
 
 #### Variational Autoencoders
