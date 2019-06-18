@@ -42,7 +42,7 @@
 ### [Semantic Segmentation](./doc/semantic_segmentation.md)
 * FCN_V1 (2014)에서 직접적인 영향을 받은 모델들:
   * FCN + max-pooling indices를 사용: SegNet V2 (2015) ([note](./paper/SegNet%20A%20Deep%20Convolutional%20Encoder-Decoder%20Architecture%20for%20Image%20Segmentation.pdf))
-  * FCN 개선: Fully Convolutional Networks for Semantic Segmentation (FCN_V2, 2016) ([note](./paper/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf))
+  * FCN 개선: Fully Convolutional Networks for Semantic Segmentation (FCN_V2, 2016) ([note](./paper/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf), [code](https://github.com/bt22dr/CarND-Semantic-Segmentation/blob/master/main.py))
   * FCN + atrous convolution과 CRF를 사용: DeepLap V2 (2016)
   * FCN + Dilated convolutions 사용: Multi-Scale Context Aggregation by Dilated Convolutions (2015)
   * FCN + Multi-scale: Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture (2015)
