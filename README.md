@@ -126,14 +126,14 @@
 
 ### [Image generation](./doc/img2img_translation.md)
 #### image-to-image
-* cGAN: Conditional Generative Adversarial Nets (2014) ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Conditional%20Generative%20Adversarial%20Nets.pdf), [code](./code/cgan.ipynb))
+* cGAN: Conditional Generative Adversarial Nets (2014) ([note](https://drive.google.com/open?id=1z1flvsqORItbCTZEGuFBQmubvNnAGzs-), [code](./code/cgan.ipynb))
 * (내맘대로)pix2pix 계열:
-  * pix2pix: Image-to-Image Translation with Conditional Adversarial Networks (2016) ([note](./paper/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks.pdf))
+  * pix2pix: Image-to-Image Translation with Conditional Adversarial Networks (2016) ([note](https://drive.google.com/open?id=1GYphdvvfuyb-YKDd_ItvwCLkNDqtY_5F))
   * ~~pix2pixHD~~
   * CycleGAN: 
   * BicycleGAN
   * vid2vid: Video-to-Video Synthesis
-  * SPADE: Semantic Image Synthesis with Spatially-Adaptive Normalization (2019) ([note](./paper/Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization.pdf))
+  * SPADE: Semantic Image Synthesis with Spatially-Adaptive Normalization (2019) ([note](https://drive.google.com/open?id=1CtbIRJ7wi7-wH9h7zQiClcHeqcfdoHEU))
 * StarGAN: 
 * PGGAN: 
 * ~~UNIT/MUNIT~~
@@ -146,7 +146,7 @@
 * AttnGAN
 
 ### Sequence generation
-* WaveGAN: ([note](./paper/WaveGAN-%20Synthesizing%20Audio%20with%20Generative%20Adversarial%20Networks.pdf), code)
+* WaveGAN: ([note](https://drive.google.com/open?id=1zd4pw884TztzisixmJSJDYTXcdXZSbdo), code)
 * SeqGAN:
 
 ### Evaluation
@@ -154,15 +154,15 @@
 * A Note on the Inception Score
 
 ### CS236 (Deep Generative Models)
-* Introduction and Background ([slide 1](./paper/cs236_lecture1.pdf), [slide 2](./paper/cs236_lecture2.pdf))
-* Autoregressive Models ([slide 3](./paper/cs236_lecture3.pdf), [slide 4](./paper/cs236_lecture4.pdf))
+* Introduction and Background ([slide 1](https://drive.google.com/open?id=1y9-nkh9OhxAuRP009FsZUDB8hjb3b9iG), [slide 2](https://drive.google.com/open?id=1Kmd7lnZJTw-mgwcTR91nWRVdxQ9Ot5X7))
+* Autoregressive Models ([slide 3](https://drive.google.com/open?id=18l4h4iQ_lAROCOlKf44VGk-Q7DEvtBp6), [slide 4](https://drive.google.com/open?id=1IQ5LdSyO9UXi3yjh9c_m7AhK0jmIqQNF))
 * Variational Autoencoders 
 * Normalizing Flow Models 
 * Generative Adversarial Networks 
 * Energy-based models 
 
 ## NLP
-* Recent Trends in Deep Learning Based Natural Language Processing ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Recent%20Trends%20in%20Deep%20Learning%20Based%20Natural%20Language%20Processing.pdf))
+* Recent Trends in Deep Learning Based Natural Language Processing ([note](https://drive.google.com/open?id=12dosro89x1wy3wXUfJ26oa3_2hU_S6n6))
 
 ### RNN Architecture
 * Seq2Seq
