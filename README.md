@@ -41,21 +41,21 @@
 
 ### [Semantic Segmentation](./doc/semantic_segmentation.md)
 * FCN_V1 (2014)에서 직접적인 영향을 받은 모델들:
-  * FCN + max-pooling indices를 사용: SegNet V2 (2015) ([note](./paper/SegNet%20A%20Deep%20Convolutional%20Encoder-Decoder%20Architecture%20for%20Image%20Segmentation.pdf))
-  * FCN 개선: Fully Convolutional Networks for Semantic Segmentation (FCN_V2, 2016) ([note](./paper/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf), [code](https://github.com/bt22dr/CarND-Semantic-Segmentation/blob/master/main.py))
+  * FCN + max-pooling indices를 사용: SegNet V2 (2015) ([note](https://drive.google.com/open?id=1CDNkW-3LKVDjGAyPCgj8fOz78pMY0Pd7))
+  * FCN 개선: Fully Convolutional Networks for Semantic Segmentation (FCN_V2, 2016) ([note](https://drive.google.com/open?id=1Kr2-ZdiqKmsgXP2ofaUZm_PT5UbbTyDN), [code](https://github.com/bt22dr/CarND-Semantic-Segmentation/blob/master/main.py))
   * FCN + atrous convolution과 CRF를 사용: DeepLap V2 (2016)
   * FCN + Dilated convolutions 사용: Multi-Scale Context Aggregation by Dilated Convolutions (2015)
   * FCN + Multi-scale: Predicting Depth, Surface Normals and Semantic Labels with a Common Multi-Scale Convolutional Architecture (2015)
   * FCN + global context 반영 위해 global pooling 사용: ParseNet (2015) 
-  * FCN + 모든 레이어에서 skip 사용: U-Net (2015) ([note](./paper/U-Net%20-%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf))
-* PSPNet (2016) ([note](./paper/Pyramid%20Scene%20Parsing%20Network.pdf))
-* DeepLabv3+ (2018) ([note](./paper/Encoder-Decoder%20with%20Atrous%20Separable%20Convolution%20for%20Semantic%20Image%20Segmentation.pdf))
+  * FCN + 모든 레이어에서 skip 사용: U-Net (2015) ([note](https://drive.google.com/open?id=1Up8PiwA79J8R3ScjgYTmLzt8pYYa83EN))
+* PSPNet (2016) ([note](https://drive.google.com/open?id=1xPu7Z-0jWepxb1av9fG2Py72Yz0enWym))
+* DeepLabv3+ (2018) ([note](https://drive.google.com/open?id=1YFUdcwKzIrTzfmL6o94y01tDXsZ2n6vc))
 * EncNet (2018)
 * FastFCN (2019)
 * Instance Segmentation
   * DeepMask
   * SharpMask
-  * Mask R-CNN (2017) ([note](./paper/Mask%20R-CNN.pdf))
+  * Mask R-CNN (2017) ([note](https://drive.google.com/open?id=1kFVOdctJTcWYkflfCM1Ys-J7Fo8COC6R))
 * 3D / Point Cloud
   * PointNet (2017)
   * SGPN (2017)
