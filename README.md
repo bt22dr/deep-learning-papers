@@ -3,7 +3,7 @@
 ## Computer Vision
 ### CNN Architecture
 * AlexNet: ImageNet Classification with Deep Convolutional Neural Networks
-* ZFNet (DeconvNet): Visualizing and Understanding Convolutional Networks ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Visualizing%20and%20Understanding%20Convolutional%20Networks.pdf), code)
+* ZFNet (DeconvNet): Visualizing and Understanding Convolutional Networks ([note](https://drive.google.com/open?id=1bzkoKVxLALaD6ZWQh5-vP9qOodMdIwi0), code)
 * NIN: Network in Network
 * VggNet: Very Deep Convolutional Networks for Large-Scale Image Recognition
 * GoogLeNet: Going Deeper with Convolutions
