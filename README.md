@@ -167,11 +167,11 @@
 ### RNN Architecture
 * Seq2Seq
   - Learning Phrase Representations Using RNN Encoder-Decoder for Statistical Machine Translation (2014)
-  - Sequence to Sequence Learning with Neural Networks (2014) ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks%20(2014).pdf), code)
+  - Sequence to Sequence Learning with Neural Networks (2014) ([note](https://drive.google.com/open?id=1crgnXU-3JClMsF1ZYLr8bxxWkSZjcTEZ), code)
   - A Neural Conversational Model
 * Attention
   - (Luong) Effective Approaches to Attention-based Neural Machine Translation (2015)
-  - (Bahdanau) Neural Machine Translation by Jointly Learning to Align and Translate (2014) ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate%20(2014).pdf), code)
+  - (Bahdanau) Neural Machine Translation by Jointly Learning to Align and Translate (2014) ([note](https://drive.google.com/open?id=1YJLljd9YbOzW5mADOtAT7V3imfMBi3Fg), code)
   - Transformer: Attention Is All You Need (2017)
 * Memory Network
   - Memory Networks (2014) 
@@ -187,19 +187,19 @@
 ### Word Embedding
 
 ## Multimodal Learning
-* DeVise - A Deep Visual-Semantic Embedding Model: ([note](./paper/DeViSE%20-%20A%20Deep%20Visual-Semantic%20Embedding%20Model.pdf))
-* Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models: ([note](./paper/Unifying%20Visual-Semantic%20Embeddings%20with%20Multimodal%20Neural%20Language%20Models.pdf))
-* Show and Tell: ([note](./paper/Show%20and%20Tell%20A%20Neural%20Image%20Caption%20Generator.comp.pdf))
-* Show, Attend and Tell: ([note](./paper/Show%20Attend%20and%20Tell%20Neural%20Image%20Caption%20Generation%20with%20Visual%20Attention.comp.pdf))
-* Multimodal Machine Learning: A Survey and Taxonomy: ([note](./paper/Multimodal%20Machine%20Learning%20-%20A%20Survey%20and%20Taxonomy.pdf))
+* DeVise - A Deep Visual-Semantic Embedding Model: ([note](https://drive.google.com/open?id=19gr2FsgvfUAHHA4E25UFJAFmFSUD_L4k))
+* Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models: ([note](https://drive.google.com/open?id=1qytxJgLsZvlbazeXTfExqPA-2rUX1irB))
+* Show and Tell: ([note](https://drive.google.com/open?id=1fZJ7jopShsepyderJ03ivzoiGqMUOGl3))
+* Show, Attend and Tell: ([note](https://drive.google.com/open?id=1COSvkFUWxuotzicGFAlLbl5l_iRrsTtG))
+* Multimodal Machine Learning: A Survey and Taxonomy: ([note](https://drive.google.com/open?id=1qibjIoD5z6HjC_G6ICixpA_G0-A5P8t5))
 
 
 ## [Etc.](./doc/etc.md) (Optimization, Normalization, Applications)
-* An overview of gradient descent optimization algorithms ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/An%20overview%20of%20gradient%20descent%20optimization%20algorithms.pdf))
+* An overview of gradient descent optimization algorithms ([note](https://drive.google.com/open?id=1eSNr4zQBKbQQRpxDl06AWEwAU5qysTo_))
 * Dropout:
-* Batch Normalization: ([pdf+memo](./paper/Batch%20Normalization%20-%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf), code)
+* Batch Normalization: ([pdf+memo](https://drive.google.com/open?id=1rSM2Q510EjEZ3J6YpWH_ZwPiUS2JHQTp), code)
 * How Does Batch Normalization Help Optimization?
-* Spectral Norm Regularization for Improving the Generalizability of Deep Learning ([note(진행중)](./paper/Spectral%20Norm%20Regularization%20for%20Improving%20the%20Generalizability%20of%20Deep%20Learning.pdf), code)
+* Spectral Norm Regularization for Improving the Generalizability of Deep Learning ([note(진행중)](https://drive.google.com/open?id=1_Th_cpo5rgTyQqi3085To_YgyNCmwlzL), code)
 * Wide & Deep Learning for Recommender Systems
 
 
