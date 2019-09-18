@@ -10,33 +10,33 @@
 * ResNet:
   - ResNet-v1: Deep Residual Learning for Image Recognition
   - ResNet-v2: Identity Mappings in Deep Residual Networks
-  - Wide Residual Networks ([note](./paper/Wide%20Residual%20Networks.pdf), code)
+  - Wide Residual Networks ([note](https://drive.google.com/open?id=14eQSeymwXgS7JvBbAkOnudAm6MFnJify), code)
 * InceptionNet:
   - Inception-v1: GoogLeNet
-  - Inception-v2, v3: Rethinking the Inception Architecture for Computer Vision ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Rethinking%20the%20Inception%20Architecture%20for%20Computer%20Vision.pdf), code)
+  - Inception-v2, v3: Rethinking the Inception Architecture for Computer Vision ([note](https://drive.google.com/open?id=1SVOpf9aElrAGCZHlX7NvYL8pbehXpw8i), code)
   - Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning 
 * DenseNet:
-* NASNet: Learning Transferable Architectures for Scalable Image Recognition ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/NASNET%20-%20Learning%20Transferable%20Architectures%20for%20Scalable%20Image%20Recognition.pdf), code)
+* NASNet: Learning Transferable Architectures for Scalable Image Recognition ([note](https://drive.google.com/open?id=1o1SfbVIgEhRWGQG_mPpxKoCDyWtNoifJ), code)
 * EfficientNet:
 
 
 ### [Visualizing CNNs](./doc/visualizing_cnn.md)
 * DeconvNet
-* BP: Deep inside convolutional networks: Visualising image classification models and saliency maps ([note](/paper/Deep%20Inside%20Convolutional%20Networks%20-%20Visualising%20Image%20Classification%20Models%20and%20Saliency%20Maps.pdf))
-* Guided-BP (DeconvNet+BP): Striving for simplicity: The all convolutional net ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Striving%20for%20Simplicity%20-%20The%20All%20Convolutional%20Net.pdf), code)
+* BP: Deep inside convolutional networks: Visualising image classification models and saliency maps ([note](https://drive.google.com/open?id=1IBP1uMr08hBp3bKjvyNnwFMu0S8ORGcs))
+* Guided-BP (DeconvNet+BP): Striving for simplicity: The all convolutional net ([note](https://drive.google.com/open?id=1KUq5-h_xVmjd4FudGDeBUfPV9vBMHV68), code)
 * Understanding Neural Networks Through Deep Visualization
 
 
 ### [Weakly Supervised Localization](./doc/cam.md)
 * From Image-level to Pixel-level Labeling with Convolutional Networks (2015)
-* GMP-CAM: Is object localization for free? - Weakly-supervised learning with convolutional neural networks (2015) ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Weakly-supervised%20learning%20with%20convolutional%20neural%20networks.pdf), code)
-* GAP-CAM: Learning Deep Features for Discriminative Localization (2016) ([note](./paper/CAM%20-%20Learning%20Deep%20Features%20for%20Discriminative%20Localization.pdf), code)
+* GMP-CAM: Is object localization for free? - Weakly-supervised learning with convolutional neural networks (2015) ([note](https://drive.google.com/open?id=1Xpnhq0snjkPMsxKLpmhLOpoZgfFlL9H3), code)
+* GAP-CAM: Learning Deep Features for Discriminative Localization (2016) ([note](https://drive.google.com/open?id=1lrkE07E3bnLscAnScwq0OIO3AaRHrqnb), code)
 * c-MWP: Top-down Neural Attention by Excitation Backprop
-* Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization (2017) ([note](./paper/Grad-CAM%20-%20Visual%20Explanations%20from%20Deep%20Networks%20via%20Gradient-based%20Localization.pdf), code)
+* Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization (2017) ([note](https://drive.google.com/open?id=10obbO7F2igia6gCcc9IqxATzOxdoPl7L), code)
 
 
 ### [Object Detection](./doc/detection.md)
-* OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks ([note](./paper/OverFeat%20-%20Integrated%20Recognition%2C%20Localization%20and%20Detection%20using%20Convolutional%20Networks.pdf), code)
+* OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks ([note](https://drive.google.com/open?id=1O3j-ag0pPRbRjG4ovWmxnZIwhUJ0twvK), code)
 
 
 ### [Semantic Segmentation](./doc/semantic_segmentation.md)
