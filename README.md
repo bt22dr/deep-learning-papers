@@ -72,8 +72,8 @@
 
 ### Siamese, Triplet Network
 * Triplet Network
-  * FaceNet: A Unified Embedding for Face Recognition and Clustering ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/FaceNet%20-%20A%20Unified%20Embedding%20for%20Face%20Recognition%20and%20Clustering.pdf), code)
-  * Learning Fine-grained Image Similarity with Deep Ranking ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Learning%20Fine-grained%20Image%20Similarity%20with%20Deep%20Ranking.pdf), code)
+  * FaceNet: A Unified Embedding for Face Recognition and Clustering ([note](https://drive.google.com/open?id=1E9ZGncIvpJoPK5_mSq5J-Mn33r2_xAqj), code)
+  * Learning Fine-grained Image Similarity with Deep Ranking ([note](https://drive.google.com/open?id=1BrjRlzB139v5nmCgdLruJGn1drmBb33m), code)
 * Siamese Network
 
 
@@ -83,7 +83,7 @@
 
 
 ### [Etc.](./doc/etc/md)
-* A guide to convolution arithmetic for deep learning ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/A%20guide%20to%20convolution%20arithmetic%20for%20deep%20learning.pdf))
+* A guide to convolution arithmetic for deep learning ([note](https://drive.google.com/open?id=1zGGzI4qc49u5zV0jFSkzD8xDMY0OalN1))
 
 
 ## [Generative Models](./doc/gan.md)
@@ -95,32 +95,32 @@
 * RNADE (2013)
 * MADE (2015)
 * PixelRNN 계열
-  * PixelCNN (2016): ([note](./paper/Pixel%20Recurrent%20Neural%20Networks.pdf), [code1(mnist)](./code/PixelCNN_mnist.ipynb), [code2(fashion_mnist)](./code/PixelCNN_fashionmnist.ipynb))
-  * WaveNet (2016) ([note](./paper/WaveNet%20A%20Generative%20Model%20for%20Raw%20Audio.pdf), [code](./code/WaveNet.ipynb))
+  * PixelCNN (2016): ([note](https://drive.google.com/open?id=1G_iIjf9dIWqge21sxrpcqK2L76PY8elN), [code1(mnist)](./code/PixelCNN_mnist.ipynb), [code2(fashion_mnist)](./code/PixelCNN_fashionmnist.ipynb))
+  * WaveNet (2016) ([note](https://drive.google.com/open?id=1qnNQS_aFuPly8MVO7kSPytPAgf-KifbC), [code](./code/WaveNet.ipynb))
   * VQ-VAE: Neural Discrete Representation Learning
 
 #### Variational Autoencoders
 * VAE ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/doc/gan.md#auto-encoding-variational-bayes), [code1(mnist)](./code/vae.ipynb), [code2(fashion_mnist)](./code/vae_fashion_mnist.ipynb))
-* Conditional VAE ([note](./paper/Learning%20Structured%20Output%20Representation%20using%20Deep%20Conditional%20Generative%20Models.pdf), [code](./code/conditional_vae_fashion_mnist.ipynb))
+* Conditional VAE ([note](https://drive.google.com/open?id=1f9fGvvtj-FdPJRwtw7PFLW0ysAu-U_2O), [code](./code/conditional_vae_fashion_mnist.ipynb))
 * VAE-GAN: Autoencoding beyond pixels using a learned similarity metric
 
 #### Normalizing Flow Models
-* NICE (2014) ([note](./paper/NICE%20Non-linear%20Independent%20Components%20Estimation.pdf))
+* NICE (2014) ([note](https://drive.google.com/open?id=1Bz8i8lASNr8SS6vBraDOyOPTJY61q2aG))
 * Variational Inference with Normalizing Flows (2015) ([code](https://drive.google.com/drive/folders/1-kqyXOvnuw7aeOwbAfKO2OWUkFdv3AmR))
 * IAF (2016)
 * MAF (2017)
 * Glow (2018)
 
 #### GANs
-* GAN: Generative Adversarial Networks ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Generative%20Adversarial%20Networks.pdf), [code1(mnist)](./code/gan.ipynb), [code2(fashion_mnist)](./code/gan_fashion_mnist.ipynb))
-* DCGAN ([note](https://github.com/bt22dr/deep-learning-papers/blob/master/paper/Unsupervised%20Representation%20Learning%20with%20Deep%20Convolutional%20Generative%20Adversarial%20Networks.pdf), [code1](./code/dcgan_mnist.ipynb), [code2](./code/dcgan_celebA.ipynb))
+* GAN: Generative Adversarial Networks ([note](https://drive.google.com/open?id=1gymav6NryH-0AJqJ7hRt6SzFLrX8bCIn), [code1(mnist)](./code/gan.ipynb), [code2(fashion_mnist)](./code/gan_fashion_mnist.ipynb))
+* DCGAN ([note](https://drive.google.com/open?id=1IWeM32QDq97mQ8BdA-rWa58AiRqWTepG), [code1](./code/dcgan_mnist.ipynb), [code2](./code/dcgan_celebA.ipynb))
 * WGAN 계열: 
-  * WGAN: Wasserstein GAN ([note(진행중)](./paper/Wasserstein%20GAN.pdf), [code](./code/wgan.ipynb))
+  * WGAN: Wasserstein GAN ([note(진행중)](https://drive.google.com/open?id=1CnfvynSKj9apRZBLjzWB--QJ69PKj2wy), [code](./code/wgan.ipynb))
   * WGAN_GP: Improved Training of Wasserstein GANs 
   * CT-GAN: Improving the Improved Training of Wasserstein GANs
 * infoGAN
 * Improved GAN: 
-* SNGAN: Spectral Normalization for Generative Adversarial Networks ([note(진행중)](./paper/Spectral%20Normalization%20for%20Generative%20Adversarial%20Networks.pdf), [code](./code/sngan_fashion_mnist.ipynb))
+* SNGAN: Spectral Normalization for Generative Adversarial Networks ([note(진행중)](https://drive.google.com/open?id=1qJmWsSKPQ2yXQDh68KcZsdEHeAkRvcgZ), [code](./code/sngan_fashion_mnist.ipynb))
 * SAGAN: 
 * CoGAN: Coupled Generative Adversarial Networks (note, code)
 
