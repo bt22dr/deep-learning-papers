@@ -201,6 +201,7 @@
 * How Does Batch Normalization Help Optimization?
 * Spectral Norm Regularization for Improving the Generalizability of Deep Learning ([note(진행중)](https://drive.google.com/open?id=1_Th_cpo5rgTyQqi3085To_YgyNCmwlzL), code)
 * Wide & Deep Learning for Recommender Systems
+* PReLU - Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
 
 
 
