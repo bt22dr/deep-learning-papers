@@ -23,9 +23,9 @@ How Does Batch Normalization Help Optimization? 한글 자료
 
 ## Initialization
  * Xavier
-  * https://dhhwang89.tistory.com/23
+   * https://dhhwang89.tistory.com/23
  * He
-  * https://calcifer1009-dev.tistory.com/11
+   * https://calcifer1009-dev.tistory.com/11
  
 ## Convolution
 - [A guide to convolution arithmetic for deep learning 번역본](https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/)
