@@ -17,7 +17,7 @@
   - Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning 
 * DenseNet:
 * NASNet: Learning Transferable Architectures for Scalable Image Recognition ([note](https://drive.google.com/open?id=1o1SfbVIgEhRWGQG_mPpxKoCDyWtNoifJ), code)
-* EfficientNet:
+* EfficientNet:([note](https://drive.google.com/open?id=1LtdSId0HTpM8_O4k4WFrzHz4ldPf7dTu))
 
 
 ### [Visualizing CNNs](./doc/visualizing_cnn.md)
